@@ -46,15 +46,20 @@
 
 /configs/default/AIKO-* @Guidus93 @betaflight/unified-target-administrators
 /configs/default/AIRB-* @x4FF3 @betaflight/unified-target-administrators
+/configs/default/ANYL-* @David-OConner @betaflight/unified-target-administrators
 /configs/default/APEX-* @x4FF3 @betaflight/unified-target-administrators
 /configs/default/AXFL-* @x4FF3 @betaflight/unified-target-administrators
 /configs/default/BEFH-* @hongzhou-zeng @betaflight/unified-target-administrators
 /configs/default/BKMN-* @blckmn @betaflight/unified-target-administrators
+/configs/default/CLNE-* @haslinghuis @betaflight/unified-target-administrators
 /configs/default/CLRA-* @bnn1044 @betaflight/unified-target-administrators
+/configs/default/CYCL-* @GEME-Cyi @betaflight/unified-target-administrators
 /configs/default/DAFP-* @DMAXYANG @betaflight/unified-target-administrators
+/configs/default/DAKE-* @ThanYangFPV @betaflight/unified-target-administrators
 /configs/default/DALR-* @nyway @betaflight/unified-target-administrators
 /configs/default/DERC-* @DemonRC @betaflight/unified-target-administrators
 /configs/default/DFRA-* @mStrangers @betaflight/unified-target-administrators
+/configs/default/DFRC-* @GEME-Cyi @betaflight/unified-target-administrators
 /configs/default/DIAT-* @kc10kevin @betaflight/unified-target-administrators
 /configs/default/DRCL-* @elin-neo @betaflight/unified-target-administrators
 /configs/default/DRRC-* @xiaoxiabub @betaflight/unified-target-administrators
@@ -65,6 +70,7 @@
 /configs/default/FLMO-* @cvetaevvitaliy @betaflight/unified-target-administrators
 /configs/default/FOXE-* @Johnsnow-foxeer @betaflight/unified-target-administrators
 /configs/default/GEFP-* @x4FF3 @betaflight/unified-target-administrators
+/configs/default/GEEL-* @Linjieqiang @betaflight/unified-target-administrators
 /configs/default/GEPR-* @Linjieqiang @betaflight/unified-target-administrators
 /configs/default/GFPV-* @GEME-Cyi @betaflight/unified-target-administrators
 /configs/default/HAMO-* @githubDLG @betaflight/unified-target-administrators
@@ -87,12 +93,15 @@
 /configs/default/PYDR-* @bnn1044 @betaflight/unified-target-administrators
 /configs/default/RCTI-* @mikeller-test @betaflight/unified-target-administrators
 /configs/default/RUSH-* @DusKing1 @betaflight/unified-target-administrators
-/configs/default/SJET-* @star624 @betaflight/unified-target-administrators
+/configs/default/SJET-* @aocodarc @betaflight/unified-target-administrators
 /configs/default/SKST-* @hongzhou-zeng @betaflight/unified-target-administrators
+/configs/default/SLGD-* @GEME-Cyi @betaflight/unified-target-administrators
 /configs/default/SNMT-* @hongzhou-zeng @betaflight/unified-target-administrators
+/configs/default/SPBE-* @SEA729 @betaflight/unified-target-administrators
 /configs/default/SPCM-* @Linjieqiang @betaflight/unified-target-administrators
 /configs/default/SPDX-* @Guidus93 @betaflight/unified-target-administrators
 /configs/default/SPRO-* @hydra @betaflight/unified-target-administrators
+/configs/default/SU25-* @Guidus93 @betaflight/unified-target-administrators
 /configs/default/TCMM-* @DMAXYANG @betaflight/unified-target-administrators
 /configs/default/TEBS-* @sirPerna @betaflight/unified-target-administrators
 /configs/default/TMTR-* @Guidus93 @betaflight/unified-target-administrators
